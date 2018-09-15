@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Minha primeira alteracao no projeto.
+=======
+Minha primeira alteracao no projeto.
+>>>>>>> parent of 732842b... alteracao no final do arquivo
